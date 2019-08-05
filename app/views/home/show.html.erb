@@ -1,0 +1,9 @@
+  <h1>Prêt à cracher sur les autres ? On a juste besoin de quelques infos auparavant...</h1>
+    <form action="/" method="POST">
+      <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+      <div class="form-group">
+        <label for="username">Quel est ton prénom ?</label>
+        <input type="text" class="form-control" id="username" name="username" placeholder="First name needed" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
