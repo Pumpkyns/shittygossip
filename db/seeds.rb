@@ -8,6 +8,8 @@
 require 'pry'
 require 'faker'
 
+# Source : seeds de Chuchu
+
 10.times do |i|
   address = Faker::Address
   City.create(city_name: address.city, zip_code: address.zip_code)

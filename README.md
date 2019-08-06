@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Download + dezip > bundle install > et tutti quanti
 
-Things you may want to cover:
+Une fois dans l'appli, il faudra rentrer un petit nom et tu auras la liste des gossips. Malheureusement, je n'ai pas réussi à créer un lien vers les auteurs pour 'zoomer' sur les gossips.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ah, et j'ai pas encore eu d'inspi pour rendre la page plus stylée.
+Have fun :)
