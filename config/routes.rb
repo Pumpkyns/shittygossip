@@ -6,6 +6,5 @@ Rails.application.routes.draw do
   get '/welcome/:first_name/', to: 'welcome#show'
   get '/contact', to: 'contact#show'
   get '/team', to: 'team#show'
-  get '/gossip/:id', to:  'gossip#show'
 end
 
